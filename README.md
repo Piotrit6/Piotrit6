@@ -56,4 +56,3 @@ I am currently working on:
 * [LinkedIn](https://www.linkedin.com/in/piotr-p%C4%99kalski-7810261a5/)
 * Location: Warsaw, Poland
 * 
-docs: add profile README
