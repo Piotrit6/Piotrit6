@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Piotr 👋
 
-<!--
-**Piotrit6/Piotrit6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT Management student based in Warsaw, building practical experience for Junior IT Project Manager, PMO and Project Coordinator roles.
 
-Here are some ideas to get you started:
+## 🎯 My current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* IT project planning and coordination
+* Project scope and requirements
+* Backlogs and roadmaps
+* Risk registers
+* Status reporting
+* Agile and Scrum fundamentals
+* Communication between business and technical teams
+
+## 📌 Featured project
+
+### IT Project Control Center
+
+A portfolio project showing how an IT Project Manager can monitor projects, tasks, risks, milestones and delivery status.
+
+My focus in this project is:
+
+* defining the product scope,
+* organizing project management workflows,
+* preparing documentation and a roadmap,
+* identifying project risks,
+* testing the prototype from a user perspective,
+* documenting decisions and lessons learned.
+
+The application prototype was created with AI-assisted development in Replit. I use the project to practise IT project management, product thinking and clear documentation.
+
+🔗 [View the repository](https://github.com/Piotrit6/it-project-control-center)
+
+## 📚 Currently learning
+
+* GitHub Projects
+* Agile project coordination
+* Project documentation
+* Risk management
+* IT product development process
+* Basic understanding of React, TypeScript and APIs
+
+## 🚀 Portfolio plan
+
+I am currently working on:
+
+* improving the IT Project Control Center case study,
+* creating a project charter,
+* preparing a product backlog,
+* building a risk register,
+* creating a GitHub project board,
+* documenting project decisions and progress.
+
+## 📫 Contact
+
+* [LinkedIn](https://www.linkedin.com/in/piotr-p%C4%99kalski-7810261a5/)
+* Location: Warsaw, Poland
+* 
+docs: add profile README
