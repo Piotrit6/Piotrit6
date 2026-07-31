@@ -1,7 +1,8 @@
 # Hi, I'm Piotr 👋
 
-I am an IT Management student based in Warsaw, building practical experience for Junior IT Project Manager, PMO and Project Coordinator roles.
+I am a second-year IT Management student based in Warsaw, building hands-on experience in IT project planning, coordination, risk management and status reporting.
 
+I am currently preparing for internship and junior opportunities in IT Project Management, PMO and Project Coordination.
 ## 🎯 My current focus
 
 * IT project planning and coordination
