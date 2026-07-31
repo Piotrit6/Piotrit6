@@ -3,43 +3,79 @@
 I am a second-year IT Management student based in Warsaw, building hands-on experience in IT project planning, coordination, risk management and status reporting.
 
 I am currently preparing for internship and junior opportunities in IT Project Management, PMO and Project Coordination.
+
 ## 🎯 My current focus
 
-* IT project planning and coordination
-* Project scope and requirements
-* Backlogs and roadmaps
-* Risk registers
-* Status reporting
-* Agile and Scrum fundamentals
-* Communication between business and technical teams
+- IT project planning and coordination
+- Project scope and requirements management
+- Product backlog and roadmap organization
+- Risk identification and mitigation planning
+- Project status reporting and milestone tracking
+- Stakeholder communication
+- Agile and Scrum fundamentals
 
 ## 📌 Featured project
 
-### IT Project Control Center
+### [IT Project Control Center](https://github.com/Piotrit6/it-project-control-center)
 
-A portfolio project showing how an IT Project Manager can monitor projects, tasks, risks, milestones and delivery status.
+A portfolio case study showing how project information can be organized for an IT Project Manager, Project Coordinator or PMO team member.
 
-My focus in this project is:
+**My responsibilities in this project:**
 
-* defining the product scope,
-* organizing project management workflows,
-* preparing documentation and a roadmap,
-* identifying project risks,
-* testing the prototype from a user perspective,
-* documenting decisions and lessons learned.
+- defining the project scope and business problem,
+- organizing requirements, backlog and roadmap,
+- identifying risks and planning mitigation actions,
+- preparing project documentation and status reports,
+- tracking milestones and delivery status,
+- reviewing the prototype from a user and project perspective,
+- documenting decisions and lessons learned.
+**Available documentation:**
 
-The application prototype was created with AI-assisted development in Replit. I use the project to practise IT project management, product thinking and clear documentation.
+- [Project Charter](https://github.com/Piotrit6/it-project-control-center/blob/main/docs/PROJECT_CHARTER.md)
+- [Product Backlog](https://github.com/Piotrit6/it-project-control-center/blob/main/docs/BACKLOG.md)
 
-🔗 [View the repository](https://github.com/Piotrit6/it-project-control-center)
+**Documentation in progress:**
+
+- Risk Register
+- Project Status Report
+- Stakeholder Register
+- Lessons Learned
 
 ## 📚 Currently learning
 
-* GitHub Projects
-* Agile project coordination
-* Project documentation
-* Risk management
-* IT product development process
-* Basic understanding of React, TypeScript and APIs
+- Jira and Confluence for project coordination
+- Advanced Excel for project tracking and reporting
+- Project risk and stakeholder management
+- Software Development Life Cycle fundamentals
+- Business requirements and acceptance criteria
+- Agile, Scrum and traditional project delivery methods
+
+## 🧰 Tools and practical skills
+
+**Project management:**
+
+- Project scope definition
+- Project charters
+- Product backlogs and roadmaps
+- Risk registers and mitigation plans
+- Milestone tracking
+- Project status reporting
+- Requirements and acceptance criteria
+
+**Tools:**
+
+- GitHub Issues
+- Markdown documentation
+- Microsoft Excel
+- Microsoft PowerPoint
+- GitHub Projects — currently learning
+- Jira and Confluence — currently learning
+
+**Technical awareness:**
+
+- Software Development Life Cycle fundamentals
+- Web application fundamentals
+- APIs and databases — basic understanding
 
 ## 🚀 Portfolio plan
 
