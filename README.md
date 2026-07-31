@@ -44,12 +44,11 @@ The application prototype was created with AI-assisted development in Replit. I 
 
 I am currently working on:
 
-* improving the IT Project Control Center case study,
-* creating a project charter,
-* preparing a product backlog,
-* building a risk register,
-* creating a GitHub project board,
-* documenting project decisions and progress.
+- expanding the project risk register,
+- creating a GitHub Project board,
+- adding application screenshots,
+- preparing an example status report,
+- documenting project decisions and lessons learned.
 
 ## 📫 Contact
 
